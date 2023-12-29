@@ -1,0 +1,80 @@
+[
+	{
+		"id"      :"1",
+		"template":"tokenomics",
+		"title"   :"Total Supply",
+		"slug"    :"Total Supply",
+		"cover"   :"public/uploads/kozar.jpg",
+		"content" :"<p>8,081,405,902</p>",
+		"button"  :{
+			"text":"View Site",
+			"url" :"https://www.worldometers.info/world-population/#:~:text=8.1%20Billion%20(current),currently%20living)%20of%20the%20world."
+		}
+	},
+	{
+		"id"      :"2",
+		"template":"tokenomics",
+		"title"   :"Tax",
+		"slug"    :"Tax",
+		"cover"   :"public/uploads/simplytopiya.jpg",
+		"content" :"<p>0%</p>",
+		"button"  :{
+			"text":"View Contract",
+			"url" :"https://github.com/utoyvo/simplytopiya"
+		}
+	},
+
+	{
+		"id"      :"3",
+		"template":"tokenomics",
+		"title"   :"PreSale",
+		"slug"    :"PreSale",
+		"cover"   :"public/uploads/misha-skvortsov.jpg",
+		"content" :"<p>50%</p>",
+		"button"  :{
+			"text":"View PinkSale",
+			"url" :"https://groklucifer.github.io/misha-skvortsov"
+		}
+	},
+
+	{
+		"id"      :"4",
+		"template":"tokenomics",
+		"title"   :"Liquidity",
+		"slug"    :"Liquidity",
+		"cover"   :"public/uploads/liniya-vtechi.jpg",
+		"content" :"<p>35%</p>",
+		"button"  :{
+			"text":"View PinkSale",
+			"url" :"https://liniyavtechi.com"
+		}
+	},
+
+	{
+		"id"      :"5",
+		"template":"tokenomics",
+		"title"   :"Team",
+		"slug"    :"Team",
+		"cover"   :"public/uploads/liniya-vtechi.jpg",
+		"content" :"<p>0%</p>",
+		"button"  :{
+			"text":"View PinkSale",
+			"url" :"https://liniyavtechi.com"
+		}
+	},
+
+	{
+		"id"      :"6",
+		"template":"tokenomics",
+		"title"   :"Cex",
+		"slug"    :"Cex",
+		"cover"   :"public/uploads/liniya-vtechi.jpg",
+		"content" :"<p>15%</p>",
+		"button"  :{
+			"text":"View PinkSale",
+			"url" :"https://liniyavtechi.com"
+		}
+	}
+
+
+]

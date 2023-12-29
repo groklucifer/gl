@@ -1,0 +1,10 @@
+[
+	{
+		"id"      :"1",
+		"template":"about",
+		"title"   :"About",
+		"slug"    :"about",
+		"photo"   :"public/uploads/lucifer.gif",
+		"content" :"<p>Pleased to meet you</p><br><p>Hope you guessed my name, mm yeah</p><br><p>But what's puzzling you</p><br><p>is the nature of my game, mm mean it, get down</p><br><p>What's my name? Tell me, baby, what's my name? Tell me, sweetie, what's my name?</p><br><a href='https://groklucifer.com'>Grok Lucifer</a>"
+	}
+]

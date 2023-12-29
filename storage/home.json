@@ -1,0 +1,10 @@
+[
+	{
+		"id"      :"1",
+		"template":"home",
+		"title"   :"Home",
+		"slug"    :"home",
+		"cover"   :"",
+		"content" :"<p>Welcome to Grok Lucifer's den. We do what Grok Santa, Grok Jesus or any other Grok leaders could not do. After conquering the depths of hell, we now plan to conquer the moon.</p><br><p>Are you ready?</p><br>"
+	}
+]
